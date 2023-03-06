@@ -1,6 +1,6 @@
-  =>  Template Name    : CakeZone - Cake Shop Website Template
+  =>  Template Name    : DentCare - Dental Clinic Website Template
 
-  =>  Template Link    : https://htmlcodex.com/cake-shop-website-template
+  =>  Template Link    : https://htmlcodex.com/dental-clinic-website-template
 
   =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
 
